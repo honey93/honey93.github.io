@@ -6,20 +6,20 @@ workbox.precaching.precacheAndRoute([
     "revision": "e21bc095df8ef1542acb3b33983e1175"
   },
   {
-    "url": "/_nuxt/62d89abb7ba4f3cea6bd.js",
-    "revision": "042cea2d2564cd6c0d8309be3b02d660"
-  },
-  {
     "url": "/_nuxt/88ec1ef62dcbbde0363d.js",
     "revision": "fa7212a754970a0cfc1b04e6926f56a6"
+  },
+  {
+    "url": "/_nuxt/c9c2850c55e607488950.js",
+    "revision": "9e160cc8f786355a3b21e1562b2dc64c"
   },
   {
     "url": "/_nuxt/e052f18e693337eb7c30.js",
     "revision": "481fee791280420ce7ec6b03c565fb18"
   },
   {
-    "url": "/_nuxt/e93445f00664b55d6e5e.js",
-    "revision": "3868fb220c6663e14e394fd4e01f9e91"
+    "url": "/_nuxt/eb4986b4e00945256ba9.js",
+    "revision": "b250e63f14521323e624e2c030683ad8"
   }
 ], {
   "cacheId": "honeythakuria",
